@@ -48,9 +48,9 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 
 ## 🤙 Let’s Link Up (Digitally, pls)
 
-- 🧠 [Portfolio (Coming Soon™)](https://your-portfolio-link.com)
+- 🧠 [Portfolio (Gravatar™)](https://gravatar.com/wchegesalome?utm_source=share_profile)
 - 🧪 [Face Detection Demo](https://github.com/peter-njoro/facetrack-Lite)
-- 💼 [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chege-peter/)
 - 🐱‍💻 Probably coding right now. Or pretending to.
 
 ---
@@ -58,8 +58,8 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 ## 🌐 Socials (Where I Lurk)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrimp_in_my_coffee)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/njoro90260)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-njoroge-71b689251)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guyonst3roids)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chege-peter)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wchegesalome)
 
 ---
