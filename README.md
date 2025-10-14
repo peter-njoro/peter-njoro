@@ -48,7 +48,7 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 
 ## 🤙 Let’s Link Up (Digitally, pls)
 
-- 🧠 [Portfolio](https://peters-brand.netlify.app/)
+- 🧠 [Portfolio](https://peterchege.netlify.app/)
 - 🧪 [Face Detection Demo](https://github.com/peter-njoro/facetrack-Lite)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chege-peter/)
 - 🐱‍💻 Probably coding right now. Or pretending to.
