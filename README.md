@@ -52,7 +52,7 @@ Hey, I'm Peter — a developer who talks to computers more than humans, mostly b
 ## Connect With Me
 
 - Portfolio: https://peterchege.netlify.app/  
-- ReconRoll (formerly FaceTrack Lite): https://github.com/peter-njoro/facetrack-Lite  
+- ReconRoll (formerly FaceTrack Lite): https://github.com/peter-njoro/ReconRoll
 - LinkedIn: https://www.linkedin.com/in/chege-peter/  
 - Usually coding. Sometimes pretending to.
 
