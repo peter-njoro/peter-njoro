@@ -1,54 +1,58 @@
 # Peter Was Here
 
-> “Why be normal when you can build things that make people question your sleep schedule?”
+> “Why be normal when you can build things that occasionally look like AI magic and occasionally look like a cry for help?”
 
-Hey, I'm Peter — a developer who talks to computers more than humans, mostly because the computers argue less. If you ever see commits at 2AM, please mind your business.
+Hey, I'm Peter — a developer who talks to computers more than humans, mostly because the computers argue less. If you ever see commits at 2AM, just assume everything is under control.
 
 ---
 
 ## About Me
 
-- Python developer with an unhealthy attachment to Django  
-- JavaScript survivor (some days it cooperates)  
-- C++ enthusiast strictly for character development  
-- Currently building: [FaceTrack Lite](https://github.com/peter-njoro/facetrack-Lite) — facial recognition attendance, because I’d rather automate remembering people  
-- Learning AI and ML the classic way: bug, debug, repeat
+- Python developer with a long-term situationship with Django  
+- FastAPI enjoyer (because sometimes speed and simplicity are nice)  
+- JavaScript and React practitioner with functional decision-making most days  
+- C++ user strictly for mental toughness  
+- Currently building **ReconRoll** — an improved facial recognition attendance system  
+- On the path to becoming a machine learning engineer  
+- Currently deep in data analytics, modeling, and turning messy datasets into “oh, that actually makes sense”
 
 ---
 
-## Tools I Use (to build things, not suffer… mostly)
+## Tools I Use
 
 | Tech Stack | What I Use It For |
 |------------|-------------------|
-| Python + Django | Web apps, APIs, backend logic that occasionally behaves |
-| JavaScript + Bootstrap | Frontend work that somehow ends up looking decent |
-| OpenCV, face_recognition, NumPy | Computer vision and AI experiments |
-| Docker, Git, GitHub Projects | Keeping my projects alive and versioned |
-| Ubuntu (WSL) | Linux inside Windows, because life’s complicated enough |
+| Python, Django, FastAPI | Backend systems, APIs, automation, AI integrations |
+| React + JavaScript | Frontend interfaces that actually look decent |
+| OpenCV, face_recognition, NumPy, Pandas | Computer vision, AI experiments, data analysis |
+| Docker, Git, GitHub Projects | Shipping real software and staying organized |
+| Arch Linux | Because I enjoy living dangerously and customizing everything |
 
-**Badges, because GitHub loves badges:**  
+**Badges, because why not:**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## Current Mission
 
-- Writing cleaner, less chaotic code  
-- Contributing to projects that actually help people (or at least make tech life slightly less painful)
+- Becoming a machine learning engineer  
+- Building intelligent tools that are actually useful  
+- Working with people who are serious about shipping real work  
+- Making ReconRoll smarter, cleaner, and more production-ready
 
 ---
 
 ## Connect With Me
 
 - Portfolio: https://peterchege.netlify.app/  
-- FaceTrack Lite: https://github.com/peter-njoro/facetrack-Lite  
+- ReconRoll (formerly FaceTrack Lite): https://github.com/peter-njoro/facetrack-Lite  
 - LinkedIn: https://www.linkedin.com/in/chege-peter/  
 - Usually coding. Sometimes pretending to.
 
