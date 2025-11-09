@@ -61,7 +61,6 @@ Hey, I'm Peter — a developer who talks to computers more than humans, mostly b
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chege-peter)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wchegesalome)
 
 > “Code like nobody’s watching, because realistically… nobody is.”
 
