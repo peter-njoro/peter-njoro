@@ -30,4 +30,5 @@ scikit-learn · PyTorch · Pandas · NumPy · OpenCV · Django/DRF
 
 ## Find me
 
-- **LinkedIn:** [Peter Njoroge Chege](https://linkedin.com/in/peter-njoroge-chege)
+- **LinkedIn:** [Peter Chege](https://linkedin.com/in/chege-peter)
+- **Email:** [Peter Chege](mailto:peterchegen12@gmail.com)
