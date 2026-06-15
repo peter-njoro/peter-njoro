@@ -2,7 +2,6 @@
 
 ML engineer from Kenya. I build systems around AI — how models communicate, how they handle context, how they can be useful outside of a chat window.
 
----
 
 ## What I'm building
 
@@ -10,7 +9,6 @@ ML engineer from Kenya. I build systems around AI — how models communicate, ho
 
 **[ReconRoll](https://github.com/peter-njoro/reconroll)** — a facial recognition attendance system. React frontend, deployed on AWS ECS Fargate. Currently at v2, going headless from v3 with InsightFace/ArcFace replacing dlib.
 
----
 
 ## Stack
 
@@ -19,14 +17,12 @@ Python · Docker · AWS ECS · PostgreSQL
 scikit-learn · PyTorch · Pandas · NumPy · OpenCV · Django/DRF
 ```
 
----
 
 ## Right now
 
 - Wrapping up the ALX Data Science program
 - Job hunting — big tech is the long-term target, open source and research are the interesting detours
 
----
 
 ## Find me
 
